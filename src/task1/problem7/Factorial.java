@@ -1,8 +1,8 @@
-package Task1.problem7;
+package task1.problem7;
 
 import java.util.Scanner;
 
-public class problem7 {
+public class Factorial {
     public static int fact(int a) {
         int rez=1;
         for (int i=1;i<=a;i++) {

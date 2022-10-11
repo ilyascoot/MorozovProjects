@@ -1,7 +1,7 @@
-package Task1.problem3;
+package task1.problem3;
 import java.util.Scanner;
 
-public class problem3
+public class ArraySum
 {
     public static void main(String[] args)
     {

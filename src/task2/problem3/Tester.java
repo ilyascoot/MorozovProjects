@@ -1,4 +1,4 @@
-package Task2.problem3;
+package task2.problem3;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Task2.problem3;
+package task2.problem3;
 
 public class Point {
     private double x = 0.0;

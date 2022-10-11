@@ -1,7 +1,6 @@
-package Task1.problem5;
-import java.util.Scanner;
+package task1.problem5;
 
-public class problem5 {
+public class CommandArgs {
     public static void main(String[] args) {
         for (int i = 0; i <args.length; i++ )
         {

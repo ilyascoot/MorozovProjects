@@ -1,7 +1,7 @@
-package Task1.problem4;
+package task1.problem4;
 import java.util.Scanner;
 
-public class problem4
+public class MinMaxSumArr
 {
     public static void main(String[] args)
     {
